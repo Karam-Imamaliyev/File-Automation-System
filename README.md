@@ -26,5 +26,5 @@ Automates CSV-to-Excel conversion with reports, totals, and archive system.
 
 
 
-,
+-----------------------------------------------------
 Engineered with purpose by **BARS KRAFT**
