@@ -172,3 +172,11 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# IDE and cache folders
+.idea/
+__pycache__/
+*.pyc
+.DS_Store
+*.log
+
